@@ -5,4 +5,5 @@
 #include <string>
 
 std::string message();
+std::string Edit();
 #endif
